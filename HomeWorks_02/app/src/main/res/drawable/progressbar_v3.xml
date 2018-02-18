@@ -1,0 +1,12 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/zz_ic_progressbar_v3_e1" android:duration="150"/>
+    <item android:drawable="@drawable/zz_ic_progressbar_v3_e2" android:duration="150"/>
+    <item android:drawable="@drawable/zz_ic_progressbar_v3_e3" android:duration="150"/>
+    <item android:drawable="@drawable/zz_ic_progressbar_v3_e4" android:duration="150"/>
+    <item android:drawable="@drawable/zz_ic_progressbar_v3_e5" android:duration="150"/>
+    <item android:drawable="@drawable/zz_ic_progressbar_v3_e6" android:duration="150"/>
+    <item android:drawable="@drawable/zz_ic_progressbar_v3_e7" android:duration="150"/>
+    <item android:drawable="@drawable/zz_ic_progressbar_v3_e8" android:duration="150"/>
+</animation-list>
